@@ -1,5 +1,7 @@
 # 💫 About Me:
-studying in bennett universty<br>b.tech CSE Data Science <br>completed many certifications <br>done virtual internships in vibrant compinies
+Hi, I’m Kunal Talan, a passionate and self-motivated individual currently pursuing my studies at Bennett University. With a strong foundation in  Computer Science  Engineering Data Science, I am always eager to learn, grow, and apply my skills in real-world scenarios.
+
+I have successfully completed multiple certifications in Business Analytics ,Data Analytics,Agile Requirements foundations etc. which have equipped me with the technical knowledge and problem-solving capabilities required to excel in the ever-evolving tech industry. Beyond academics, I have gained hands-on experience through online internships with vibrant and innovative companies, where I contributed to impactful projects and honed my teamwork, adaptability, and leadership skills.
 
 
 ## 🌐 Socials:
