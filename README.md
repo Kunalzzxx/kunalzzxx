@@ -1,23 +1,31 @@
-# 👋 Hi, I'm Kunal Talan
+#  Kunal Talan
 
-🎓 Computer Science (Data Science) @ Bennett University
-💡 Passionate about Machine Learning, Data Analytics & Real-World Problem Solving
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Turning+Data+into+Insights;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-* 📊 Building data-driven solutions using ML & analytics
-* 🤖 Hands-on with real-world projects & internships
-* 📈 Certified in Business Analytics & Agile
-* 🧠 Constantly learning and exploring new technologies
+🎓 Computer Science (Data Science) @ Bennett University
+💡 Passionate about **Machine Learning, AI & Data Analytics**
+
+* 📊 Building real-world ML solutions
+* 🚀 Completed multiple certifications (Business Analytics, Agile, Data Analytics)
+* 🤝 Experience through internships & collaborative projects
+* 🔍 Always exploring new technologies and tools
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kunal-talan-46614a25b/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunal-talan-46614a25b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -26,29 +34,69 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Core
+<p align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B)
+### 👨‍💻 Languages
 
-### 📊 Data & ML
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge\&logo=scipy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
+### 📊 Data Science
 
-### 📈 Analytics & Tools
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
 
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge\&logo=github)
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=github,mysql,django,firebase" />
 
 ### ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge\&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge\&logo=google-cloud)
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 Hyperspectral Image Classification
+
+* High-dimensional image classification using ML & Deep Learning
+* Applied PCA + CNN for improved accuracy
+
+---
+
+### 🏦 Loan Approval Prediction
+
+* Predicts loan approval using classification models
+* Focus on risk analysis & decision automation
+
+---
+
+### 📉 Customer Churn Prediction
+
+* Identifies customers likely to leave
+* Helps businesses improve retention strategies
+
+---
+
+### ☀️ Renewable Solar Energy Forecasting
+
+* Time-series forecasting of solar power generation
+* Uses environmental and weather data
+
+---
+
+### 🖱️ Virtual Mouse (OpenCV)
+
+* Control cursor using hand gestures
+* Built with computer vision techniques
+
+---
+
+### 🖐️ AR Hand Tracking
+
+* Real-time hand tracking using MediaPipe
+* Enables gesture-based interaction systems
 
 ---
 
@@ -68,15 +116,23 @@
 
 ---
 
-## ⚡ Fun Zone
+## 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ7kqZ5rGg/giphy.gif" width="600"/>
 </p>
 
 ---
 
-## ✍️ Quote
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+---
+
+## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
@@ -88,4 +144,4 @@
 
 ---
 
-⭐ *“Turning data into decisions and ideas into impact.”*
+⭐ *“Code. Learn. Build. Repeat.”*
