@@ -1,11 +1,13 @@
-#  Kunal Talan
+# 👨‍💻 Kunal Talan
+<img width="726" height="866" alt="Screenshot 2026-03-22 132452" src="https://github.com/user-attachments/assets/851d1dcc-565a-4577-8cf8-47a5a7b3ea69" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/abhishekna![Uploading Screenshot 2026-03-22 132452.png…]()
+iidu/abhisheknaiidu/master/code.gif" width="120"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Turning+Data+into+Insights;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Building+Real+World+Projects;Always+Learning" />
 </p>
 
 ---
@@ -16,9 +18,9 @@
 💡 Passionate about **Machine Learning, AI & Data Analytics**
 
 * 📊 Building real-world ML solutions
-* 🚀 Completed multiple certifications (Business Analytics, Agile, Data Analytics)
-* 🤝 Experience through internships & collaborative projects
-* 🔍 Always exploring new technologies and tools
+* 🚀 Certified in Business Analytics, Agile & Data Analytics
+* 🤝 Internship experience with real projects
+* 🔍 Always learning new tools & technologies
 
 ---
 
@@ -35,23 +37,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp" />
-
-### 📊 Data Science
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
-
-### ⚙️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=github,mysql,django,firebase" />
-
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,pandas,numpy,mysql,django,aws,azure,gcp,github" />
 </p>
 
 ---
@@ -60,43 +46,27 @@
 
 ### 🔬 Hyperspectral Image Classification
 
-* High-dimensional image classification using ML & Deep Learning
-* Applied PCA + CNN for improved accuracy
 
----
 
 ### 🏦 Loan Approval Prediction
 
-* Predicts loan approval using classification models
-* Focus on risk analysis & decision automation
 
----
 
 ### 📉 Customer Churn Prediction
 
-* Identifies customers likely to leave
-* Helps businesses improve retention strategies
 
----
 
 ### ☀️ Renewable Solar Energy Forecasting
 
-* Time-series forecasting of solar power generation
-* Uses environmental and weather data
 
----
 
 ### 🖱️ Virtual Mouse (OpenCV)
 
-* Control cursor using hand gestures
-* Built with computer vision techniques
 
----
 
 ### 🖐️ AR Hand Tracking
 
-* Real-time hand tracking using MediaPipe
-* Enables gesture-based interaction systems
+
 
 ---
 
@@ -107,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalzzxx&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kunalzzxx&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -116,18 +86,18 @@
 
 ---
 
-## 
+## 💻 Coding Mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ7kqZ5rGg/giphy.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
 
 ---
 
-
+## ⚡ Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/robot.gif" width="250"/>
 </p>
 
 ---
@@ -144,4 +114,4 @@
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ *“Turning data into impactful solutions.”*
