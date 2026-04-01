@@ -86,7 +86,7 @@ iidu/abhisheknaiidu/master/code.gif" width="120"/>
 
 ---
 
-## 💻 Coding Mode
+## 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -94,7 +94,7 @@ iidu/abhisheknaiidu/master/code.gif" width="120"/>
 
 ---
 
-## ⚡ Fun Zone
+##
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/robot.gif" width="250"/>
